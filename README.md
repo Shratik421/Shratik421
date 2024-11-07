@@ -31,7 +31,7 @@
   <img src="https://skillicons.dev/icons?i=ts" alt="skills actively learning logos">  -->
   <br>
   <h2> <strong> Plan to Learn </strong></h2>
-  <img src="https://skillicons.dev/icons?i=cs,nestjs,prisma,aws,docker,graphql,jenkins&perline=6" alt="skills planning to learn">
+  <img src="https://skillicons.dev/icons?i=cs,nestjs,prisma,aws,kubernetes,docker,graphql,jenkins&perline=6" alt="skills planning to learn">
   <h2> <strong> Skills </strong></h2>
   <img src="https://skillicons.dev/icons?i=html,css,react,js,tailwindcss,nodejs,express,mongodb,firebase,wordpress,dotnet,mysql,git,figma&perline=6" alt="my skills">
   <h2> <strong> Tools I use </strong></h2>
